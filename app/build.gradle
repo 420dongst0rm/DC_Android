@@ -30,4 +30,5 @@ dependencies {
     implementation project(':library-release')
     implementation project(':fftpack-master')
     implementation project(':full')
+    implementation project(':lite-ble-0.9.2')
 }
